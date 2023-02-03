@@ -1,8 +1,7 @@
 👋 
 # Привет, меня зовут Владимир! 
 
-- 📫 How to reach me: [![Telegram Badge](https://cdn.icon-icons.com/icons2/2429/PNG/512/telegram_logo_icon_147228.png)](https://t.me/checkmate_e2e4) 
-- [![Gmail Badge](https://cdn-icons-png.flaticon.com/512/3686/3686989.png)](mailto:) 
+- 📫 How to reach me: [![Telegram Badge](https://github.com/Vladimir-Ivanov-92/Vladimir-Ivanov-92/blob/main/icon/telegram_logo_icon_147228.png)](https://t.me/checkmate_e2e4) [![Gmail Badge](https://github.com/Vladimir-Ivanov-92/Vladimir-Ivanov-92/blob/main/icon/732200.png)](mailto:vovai2092@gmail.com) 
 
 
 <!--
