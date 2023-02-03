@@ -1,7 +1,8 @@
 👋 
 # Привет, меня зовут Владимир! 
 
-- 📫 How to reach me: 
+- 📫 How to reach me: [![Telegram Badge](https://cdn.icon-icons.com/icons2/2429/PNG/512/telegram_logo_icon_147228.png)](https://t.me/checkmate_e2e4) 
+- [![Gmail Badge](https://cdn-icons-png.flaticon.com/512/3686/3686989.png)](mailto:) 
 
 
 <!--
