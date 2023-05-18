@@ -3,6 +3,9 @@
 
 - 📫 How to reach me: [![Telegram Badge](https://github.com/Vladimir-Ivanov-92/Vladimir-Ivanov-92/blob/main/icon/telegram_logo_icon_147228.png)](https://t.me/checkmate_e2e4) [![Gmail Badge](https://github.com/Vladimir-Ivanov-92/Vladimir-Ivanov-92/blob/main/icon/732200.png)](mailto:vovai2092@gmail.com) 
 
+# Мое резюме на  HH:
+https://spb.hh.ru/resume/1f5173ddff0be42ca70039ed1f7470536e6241
+
 # Мои проекты:
 - Интернет-магазин: https://dev-test-login.ru   
 Репозиторий: https://github.com/Vladimir-Ivanov-92/my_site
