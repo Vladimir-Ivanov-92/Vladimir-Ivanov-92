@@ -41,6 +41,12 @@
 Программа с помощью Selenium сохраняет html копию web-страницы и с помощью библиотеки BeautifulSoup4 сохраняет необходимые данные из HTML файла в CSV таблицу.
 
 
+- <b>Вопросы для Quiz</b>          
+Репозиторий: https://github.com/Vladimir-Ivanov-92/quiz_questions_flask.     
+Стек: Flask, SQLAlchemy, PostgreSQL, pydantic, Docker    
+Получение вопросов через API англоязычного сайта, для игры в Quize. Вопросы сохраняются в БД PostgreSQL, при попытке сохранить уже существующий вопрос, выполняются повторные запросы. 
+
+
 # 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vladimir-Ivanov-92&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
