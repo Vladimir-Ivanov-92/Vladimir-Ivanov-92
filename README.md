@@ -46,9 +46,14 @@
 
 - <b> Загрузка и обработка изображений (API) </b>      
 Репозиторий:https://github.com/Vladimir-Ivanov-92/upload_files_api_drf
-</br> Стек: Djago, DRF, Celery, Redis, Docker.      
+</br> Стек: *<b> Djago, DRF, Celery, Redis, Docker </b>*    
 Приложение позволяет загружать файлы на сервер, а затем обрабатывать их.
 Загруженный файл обрабатывается и сохраняется в БД (PostgreSQL). В зависимости от типа загруженного файла происходит соответствующая обработка.
+
+- <b>Вопросы для Quiz</b>          
+Репозиторий: https://github.com/Vladimir-Ivanov-92/quiz_questions_flask.     
+Стек: *<b> Flask, SQLAlchemy, PostgreSQL, pydantic, Docker  </b>* 
+Получение вопросов через API англоязычного сайта, для игры в Quize. Вопросы сохраняются в БД PostgreSQL, при попытке сохранить уже существующий вопрос, выполняются повторные запросы.
 
 - <b>Телеграмм – бот (@Beautiful_weather_bot)</b>      
 Репозиторий: https://github.com/Vladimir-Ivanov-92/Weather_TgBot_Aiogram.      
@@ -57,12 +62,6 @@
 - <b>Web-парсер c использванием бибилиотеки Selenium</b>          
 Репозиторий: https://github.com/Vladimir-Ivanov-92/selenium_web_scraping.  
 Программа с помощью Selenium сохраняет html копию web-страницы и с помощью библиотеки BeautifulSoup4 сохраняет необходимые данные из HTML файла в CSV таблицу.
-
-
-- <b>Вопросы для Quiz</b>          
-Репозиторий: https://github.com/Vladimir-Ivanov-92/quiz_questions_flask.     
-Стек: Flask, SQLAlchemy, PostgreSQL, pydantic, Docker    
-Получение вопросов через API англоязычного сайта, для игры в Quize. Вопросы сохраняются в БД PostgreSQL, при попытке сохранить уже существующий вопрос, выполняются повторные запросы.
 
 А так же другие проекты, с которыми можно ознакомиться в репозитории: https://github.com/Vladimir-Ivanov-92?tab=repositories
 
