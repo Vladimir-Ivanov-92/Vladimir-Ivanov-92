@@ -53,7 +53,7 @@
 - <b>Вопросы для Quiz</b>          
 Репозиторий: https://github.com/Vladimir-Ivanov-92/quiz_questions_flask.     
 Стек: *<b> Flask, SQLAlchemy, PostgreSQL, pydantic, Docker  </b>* 
-Получение вопросов через API англоязычного сайта, для игры в Quize. Вопросы сохраняются в БД PostgreSQL, при попытке сохранить уже существующий вопрос, выполняются повторные запросы.
+</br> Получение вопросов через API англоязычного сайта, для игры в Quize. Вопросы сохраняются в БД PostgreSQL, при попытке сохранить уже существующий вопрос, выполняются повторные запросы.
 
 - <b>Телеграмм – бот (@Beautiful_weather_bot)</b>      
 Репозиторий: https://github.com/Vladimir-Ivanov-92/Weather_TgBot_Aiogram.      
