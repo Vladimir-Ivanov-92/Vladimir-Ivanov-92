@@ -29,8 +29,7 @@
 
 # Мои проекты:
 - <b>Интернет-магазин: https://dev-test-login.ru </b>  
-Репозиторий: https://github.com/Vladimir-Ivanov-92/my_site.
-</br> Web: https://dev-test-login.ru         
+Репозиторий: https://github.com/Vladimir-Ivanov-92/my_site.       
 Используемые в проекте инструменты: Django, PostgreSQL, HTML, CSS, JQery, AJAX. Сайт размещен на VDS сервере, установлены и настроены Nginx, Gunicorn, Celery, Redis. Подключен SSL-сертификат. Реализована корзина товаров, логин/регистрация, изменение и просмотр актуального статуса заказа, верификация почты, оповещение клиента и администратора о созданном заказе по эл. почте и в телеграмм.
 
 
