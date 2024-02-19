@@ -29,8 +29,21 @@
 
 # Мои проекты:
 - <b>Интернет-магазин: https://dev-test-login.ru </b>  
-Репозиторий: https://github.com/Vladimir-Ivanov-92/my_site.         
-Написан с нуля. Используемые в проекте инструменты: Django, PostgreSQL, HTML, CSS, JQery, AJAX. Сайт размещен на VDS сервере, установлены и настроены Nginx, Gunicorn, Celery, Redis. Подключен SSL-сертификат. Реализована корзина товаров, логин/регистрация, изменение и просмотр актуального статуса заказа, верификация почты, оповещение клиента и администратора о созданном заказе по эл. почте и в телеграмм.
+Репозиторий: https://github.com/Vladimir-Ivanov-92/my_site.
+</br> Web: https://dev-test-login.ru         
+Используемые в проекте инструменты: Django, PostgreSQL, HTML, CSS, JQery, AJAX. Сайт размещен на VDS сервере, установлены и настроены Nginx, Gunicorn, Celery, Redis. Подключен SSL-сертификат. Реализована корзина товаров, логин/регистрация, изменение и просмотр актуального статуса заказа, верификация почты, оповещение клиента и администратора о созданном заказе по эл. почте и в телеграмм.
+
+
+- <b> Спортивные турниры (API) </b>      
+Репозиторий:https://github.com/Vladimir-Ivanov-92/competitions_FastAPI
+</br> Стек: FastAPI, SQLAlchemy, Alembic, PostgreSQL, Docker, Uvicorn, Redis.      
+Приложение предоставляющее API для сохранения результатов турниров по различным видам спорта с указанием участников турниров и занятых ими мест.
+
+- <b> Обменный курс (API) </b>      
+Репозиторий:https://github.com/Vladimir-Ivanov-92/DRF_API_Exchange_Rate
+</br> Стек: Djago, DRF, Celery, Redis, Pydantic, Docker.      
+Приложение предоставляющее API для получения актуального курса валюты. Данные о курсе берутся из внешнего сервиса. Данные обновляются в фоновом режиме. Для обработки задачи в фоновом режиме используется Celery.
+
 
 - <b>Телеграмм – бот (@Beautiful_weather_bot)</b>      
 Репозиторий: https://github.com/Vladimir-Ivanov-92/Weather_TgBot_Aiogram.      
