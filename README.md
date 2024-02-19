@@ -30,18 +30,18 @@
 # Мои проекты:
 - <b>Интернет-магазин: https://dev-test-login.ru </b>  
 Репозиторий: https://github.com/Vladimir-Ivanov-92/my_site.       
-Стек: Django, PostgreSQL, HTML, CSS, JQery, AJAX.
+Стек: *<b> Django, PostgreSQL, HTML, CSS, JQery, AJAX </b>*
 </br> Сайт размещен на VDS сервере, установлены и настроены Nginx, Gunicorn, Celery, Redis. Подключен SSL-сертификат. Реализована корзина товаров, логин/регистрация, изменение и просмотр актуального статуса заказа, верификация почты, оповещение клиента и администратора о созданном заказе по эл. почте и в телеграмм.
 
 
 - <b> Спортивные турниры (API) </b>      
 Репозиторий:https://github.com/Vladimir-Ivanov-92/competitions_FastAPI
-</br> Стек: FastAPI, SQLAlchemy, Alembic, PostgreSQL, Docker, Uvicorn, Redis.      
+</br> Стек: *<b> FastAPI, SQLAlchemy, Alembic, PostgreSQL, Docker, Uvicorn, Redis </b>*      
 Приложение предоставляющее API для сохранения результатов турниров по различным видам спорта с указанием участников турниров и занятых ими мест.
 
 - <b> Обменный курс (API) </b>      
 Репозиторий:https://github.com/Vladimir-Ivanov-92/DRF_API_Exchange_Rate
-</br> Стек: Djago, DRF, Celery, Redis, Pydantic, Docker.      
+</br> Стек: *<b> Djago, DRF, Celery, Redis, Pydantic, Docker </b>*      
 Приложение предоставляющее API для получения актуального курса валюты. Данные о курсе берутся из внешнего сервиса. Данные обновляются в фоновом режиме. Для обработки задачи в фоновом режиме используется Celery.
 
 - <b> Загрузка и обработка изображений (API) </b>      
